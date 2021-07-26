@@ -27,7 +27,7 @@ from HEALTH_MANAGEMENT import *
   import HEALTH_MANAGEMENT
 ```
 ## Authors
-- [@Anshu Gupta](https://www.github.com/Anshu370)
+- [@Anshu Gupta](https://github.com/Anshu370/Health_management_system)
 
 ## 🚀 About Me
 - 👋 Hi, I’m ANSHU GUPTA
