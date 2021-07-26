@@ -10,8 +10,8 @@ setup(
     description='A health management system with all the basic functions. '
                 'you can also create a program using tkinter using this library',
     author='Anshu Gupta',
-    # url='https://github.com/Anshu370/PyMusic_Player',
-    # long_description = long_description,
+    url='https://github.com/Anshu370/Health_management_system',
+    long_description = long_description,
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
     keywords=['health manmagement python', 'health managemengt system', 'python health management', 'health management'],
