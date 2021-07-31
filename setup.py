@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='HEALTH_MANAGEMENT',
-    version='0.0.1',
+    version='0.1',
     description='A health management system with all the basic functions. '
                 'you can also create a program using tkinter using this library',
     author='Anshu Gupta',
