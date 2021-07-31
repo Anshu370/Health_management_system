@@ -17,7 +17,7 @@
 Install my-project using pip
 
 ```bash
-  pip install HEALTH_MANAGEMENT
+  pip install Health-management
 ```
 ## Import
 ```bash
